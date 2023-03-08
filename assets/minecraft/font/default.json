@@ -1,0 +1,1291 @@
+{
+    "providers": [
+      {
+        "chars": [
+          "ฃ"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-3.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐥ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -514,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ค"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-4.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฅ"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-5.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฆ"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-6.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ก"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-1.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ข"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-2.png",
+        "ascent": 8,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡙ"
+        ],
+        "file": "custom/supreme-icons/bubbles/bubble-7.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡚ"
+        ],
+        "file": "custom/supreme-icons/bubbles/bubble-8.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡗ"
+        ],
+        "file": "custom/supreme-icons/bubbles/bubble-5.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡘ"
+        ],
+        "file": "custom/supreme-icons/bubbles/bubble-6.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡕ"
+        ],
+        "file": "custom/supreme-icons/bubbles/bubble-3.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡖ"
+        ],
+        "file": "custom/supreme-icons/bubbles/bubble-4.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐐ"
+        ],
+        "file": "required/exit_icon.png",
+        "ascent": 8,
+        "height": 8,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡓ"
+        ],
+        "file": "custom/supreme-icons/bubbles/bubble-1.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡔ"
+        ],
+        "file": "custom/supreme-icons/bubbles/bubble-2.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ม"
+        ],
+        "file": "custom/supreme-icons/minecraft/slime_ball.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡅ"
+        ],
+        "file": "custom/supreme-icons/masks/mask-6.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ด"
+        ],
+        "file": "custom/supreme-icons/minecraft/firework_rocket.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡄ"
+        ],
+        "file": "custom/supreme-icons/masks/mask-5.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐛ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 1022,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡆ"
+        ],
+        "file": "custom/supreme-icons/masks/mask-7.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡁ"
+        ],
+        "file": "custom/supreme-icons/masks/mask-2.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡀ"
+        ],
+        "file": "custom/supreme-icons/masks/mask-1.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡃ"
+        ],
+        "file": "custom/supreme-icons/masks/mask-4.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡂ"
+        ],
+        "file": "custom/supreme-icons/masks/mask-3.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ษ"
+        ],
+        "file": "custom/supreme-icons/ruby/ruby-8.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ช"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-10.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ศ"
+        ],
+        "file": "custom/supreme-icons/ruby/ruby-7.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ว"
+        ],
+        "file": "custom/supreme-icons/ruby/ruby-6.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฦ"
+        ],
+        "file": "custom/supreme-icons/ruby/ruby-5.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ล"
+        ],
+        "file": "custom/supreme-icons/ruby/ruby-4.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฤ"
+        ],
+        "file": "custom/supreme-icons/ruby/ruby-3.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฎ"
+        ],
+        "file": "custom/supreme-icons/minecraft/bell.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ท"
+        ],
+        "file": "custom/supreme-icons/minecraft/honeycomb.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐗ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 62,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐝ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -4,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฟ"
+        ],
+        "file": "custom/supreme-icons/minecraft/light.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐜ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -3,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐦ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -1026,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐞ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -6,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐡ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -34,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "꡵"
+        ],
+        "file": "custom/supreme-icons/common/wing.png",
+        "ascent": 11,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ง"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-7.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "จ"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-8.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฉ"
+        ],
+        "file": "custom/supreme-icons/crystals/crystal-9.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐟ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡰ"
+        ],
+        "file": "custom/supreme-icons/common/cup.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "น"
+        ],
+        "file": "custom/supreme-icons/minecraft/netherite_ingot.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡛ"
+        ],
+        "file": "custom/supreme-icons/common/anvil.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "บ"
+        ],
+        "file": "custom/supreme-icons/minecraft/totem_of_undying.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ญ"
+        ],
+        "file": "custom/supreme-icons/minecraft/axolotl_bucket.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡯ"
+        ],
+        "file": "custom/supreme-icons/common/gem.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡲ"
+        ],
+        "file": "custom/supreme-icons/common/shield-1.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ธ"
+        ],
+        "file": "custom/supreme-icons/minecraft/nether_star.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "꡴"
+        ],
+        "file": "custom/supreme-icons/common/shield-3.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡳ"
+        ],
+        "file": "custom/supreme-icons/common/shield-2.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐙ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 254,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐢ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -66,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡬ"
+        ],
+        "file": "custom/supreme-icons/common/trophy.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡭ"
+        ],
+        "file": "custom/supreme-icons/common/heart.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡑ"
+        ],
+        "file": "custom/supreme-icons/gifts/gift-5.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ถ"
+        ],
+        "file": "custom/supreme-icons/minecraft/golden_apple.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡌ"
+        ],
+        "file": "custom/supreme-icons/hats/hat-6.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡒ"
+        ],
+        "file": "custom/supreme-icons/gifts/gift-6.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡋ"
+        ],
+        "file": "custom/supreme-icons/hats/hat-5.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡧ"
+        ],
+        "file": "custom/supreme-icons/common/star.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡊ"
+        ],
+        "file": "custom/supreme-icons/hats/hat-4.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "꡶"
+        ],
+        "file": "custom/supreme-icons/common/small-candy.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡉ"
+        ],
+        "file": "custom/supreme-icons/hats/hat-3.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐔ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 6,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡈ"
+        ],
+        "file": "custom/supreme-icons/hats/hat-2.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐑ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -1,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐒ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 0,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐓ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 2,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡏ"
+        ],
+        "file": "custom/supreme-icons/gifts/gift-3.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡐ"
+        ],
+        "file": "custom/supreme-icons/gifts/gift-4.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡍ"
+        ],
+        "file": "custom/supreme-icons/gifts/gift-1.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡎ"
+        ],
+        "file": "custom/supreme-icons/gifts/gift-2.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฏ"
+        ],
+        "file": "custom/supreme-icons/minecraft/blaze_powder.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡨ"
+        ],
+        "file": "custom/supreme-icons/common/sword.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "༂"
+        ],
+        "file": "custom/supreme-icons/updates/update-10.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "༃"
+        ],
+        "file": "custom/supreme-icons/updates/update-11.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "༄"
+        ],
+        "file": "custom/supreme-icons/updates/update-12.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "༅"
+        ],
+        "file": "custom/supreme-icons/updates/update-13.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฝ"
+        ],
+        "file": "custom/supreme-icons/minecraft/heart_of_the_sea.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "༆"
+        ],
+        "file": "custom/supreme-icons/updates/update-14.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ซ"
+        ],
+        "file": "custom/supreme-icons/minecraft/amethyst_shard.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡦ"
+        ],
+        "file": "custom/supreme-icons/common/spider.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡩ"
+        ],
+        "file": "custom/supreme-icons/common/thunder.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡟ"
+        ],
+        "file": "custom/supreme-icons/common/cloud.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡱ"
+        ],
+        "file": "custom/supreme-icons/common/small-shield.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐖ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 30,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ต"
+        ],
+        "file": "custom/supreme-icons/minecraft/gold_ingot.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡇ"
+        ],
+        "file": "custom/supreme-icons/hats/hat-1.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐚ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 510,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡪ"
+        ],
+        "file": "custom/supreme-icons/common/hat.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ผ"
+        ],
+        "file": "custom/supreme-icons/minecraft/xpbottlesmall.png",
+        "ascent": 10,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡥ"
+        ],
+        "file": "custom/supreme-icons/common/spell.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "พ"
+        ],
+        "file": "custom/supreme-icons/minecraft/knowledge_book.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡞ"
+        ],
+        "file": "custom/supreme-icons/common/chest.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ป"
+        ],
+        "file": "custom/supreme-icons/minecraft/turtle_egg.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐕ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 14,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐘ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": 126,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ณ"
+        ],
+        "file": "custom/supreme-icons/minecraft/emerald.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡮ"
+        ],
+        "file": "custom/supreme-icons/common/coin.png",
+        "ascent": 10,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฑ"
+        ],
+        "file": "custom/supreme-icons/minecraft/copper_ingot.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡡ"
+        ],
+        "file": "custom/supreme-icons/common/hammer.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡝ"
+        ],
+        "file": "custom/supreme-icons/common/candy.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡜ"
+        ],
+        "file": "custom/supreme-icons/common/book.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐤ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -258,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡣ"
+        ],
+        "file": "custom/supreme-icons/common/sleeping.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฌ"
+        ],
+        "file": "custom/supreme-icons/minecraft/apple.png",
+        "ascent": 10,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฐ"
+        ],
+        "file": "custom/supreme-icons/minecraft/chest.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡤ"
+        ],
+        "file": "custom/supreme-icons/common/small-star.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡢ"
+        ],
+        "file": "custom/supreme-icons/common/medal.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ร"
+        ],
+        "file": "custom/supreme-icons/ruby/ruby-2.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ย"
+        ],
+        "file": "custom/supreme-icons/ruby/ruby-1.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡫ"
+        ],
+        "file": "custom/supreme-icons/common/treasure.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐣ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -130,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "༁"
+        ],
+        "file": "custom/supreme-icons/updates/update-9.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꐠ"
+        ],
+        "file": "required/null.png",
+        "ascent": -32768,
+        "height": -18,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ༀ"
+        ],
+        "file": "custom/supreme-icons/updates/update-8.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฮ"
+        ],
+        "file": "custom/supreme-icons/updates/update-5.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "อ"
+        ],
+        "file": "custom/supreme-icons/updates/update-4.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ँ"
+        ],
+        "file": "custom/supreme-icons/updates/update-7.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ऀ"
+        ],
+        "file": "custom/supreme-icons/updates/update-6.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฒ"
+        ],
+        "file": "custom/supreme-icons/minecraft/diamond.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ภ"
+        ],
+        "file": "custom/supreme-icons/minecraft/magma_cream.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ส"
+        ],
+        "file": "custom/supreme-icons/updates/update-1.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ฬ"
+        ],
+        "file": "custom/supreme-icons/updates/update-3.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ห"
+        ],
+        "file": "custom/supreme-icons/updates/update-2.png",
+        "ascent": 9,
+        "height": 10,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "ꡠ"
+        ],
+        "file": "custom/supreme-icons/common/flame.png",
+        "ascent": 9,
+        "height": 11,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "꡷"
+        ],
+        "file": "custom/supreme-icons/common/blue-gem.png",
+        "ascent": 8,
+        "height": 9,
+        "type": "bitmap"
+      },
+      {
+        "chars": [
+          "Ξ"
+        ],
+        "file": "custom/discord.png",
+        "ascent": 8,
+        "height": 9,
+        "type": "bitmap"
+      },
+	    {
+         "file":"littleroom_npcpack4:empty_character.png",
+         "chars":[
+            ""
+         ],
+         "height":-6,
+         "ascent":-32768,
+         "type":"bitmap"
+      },
+      {
+         "file":"littleroom_npcpack4:empty_character.png",
+         "chars":[
+            ""
+         ],
+         "height":6,
+         "ascent":-65536,
+         "type":"bitmap"
+      },
+		{
+			"type": "bitmap",
+			"file": "littleroom_npcpack4:heads/speech1.png",
+			"height": 180,
+			"ascent": 90,
+			"chars": [
+				"💨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_npcpack4:heads/acolyte.png",
+			"height": 48,
+			"ascent": 24,
+			"chars": [
+				"☢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_npcpack4:heads/paladin.png",
+			"height": 48,
+			"ascent": 24,
+			"chars": [
+				"☣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_npcpack4:heads/tinkerer.png",
+			"height": 48,
+			"ascent": 24,
+			"chars": [
+				"☤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_npcpack4:heads/assassin.png",
+			"height": 48,
+			"ascent": 24,
+			"chars": [
+				"☥"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_npcpack4:heads/fortuneteller.png",
+			"height": 48,
+			"ascent": 24,
+			"chars": [
+				"☦"
+			]
+		}
+    ]
+  }
