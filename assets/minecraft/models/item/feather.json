@@ -1,28 +1,25 @@
 {
-	"parent": "minecraft:item/handheld",
-	"textures": {
-	  "layer0": "minecraft:item/feather"
-	},
-	  "overrides": [
-		  { "predicate": {"custom_model_data": 1740}, "model": "item/toffy/crates/toffy_crate_purple"},
-		  { "predicate": {"custom_model_data": 1741}, "model": "item/toffy/crates/toffy_crate_black"},
-		  { "predicate": {"custom_model_data": 1742}, "model": "item/toffy/crates/toffy_crate_blue"},
-		  { "predicate": {"custom_model_data": 1743}, "model": "item/toffy/crates/toffy_crate_red"},
-		  { "predicate": {"custom_model_data": 1744}, "model": "item/toffy/crates/toffy_crate_green"},
-		  { "predicate": {"custom_model_data": 1745}, "model": "item/toffy/crates/toffy_key_purple"},
-		  { "predicate": {"custom_model_data": 1746}, "model": "item/toffy/crates/toffy_key_black"},
-		  { "predicate": {"custom_model_data": 1747}, "model": "item/toffy/crates/toffy_key_blue"},
-		  { "predicate": {"custom_model_data": 1748}, "model": "item/toffy/crates/toffy_key_red"},
-		  { "predicate": {"custom_model_data": 1749}, "model": "item/toffy/crates/toffy_key_green"},
-		  { "predicate": {"custom_model_data": 1750}, "model": "item/toffy/crates/toffy_crate_cinder"},
-		  { "predicate": {"custom_model_data": 1751}, "model": "item/toffy/crates/toffy_crate_viking"},
-		  { "predicate": {"custom_model_data": 1752}, "model": "item/toffy/crates/toffy_crate_paladin"},
-		  { "predicate": {"custom_model_data": 1753}, "model": "item/toffy/crates/toffy_key_cinder"},
-		  { "predicate": {"custom_model_data": 1754}, "model": "item/toffy/crates/toffy_key_viking"},
-		  { "predicate": {"custom_model_data": 1755}, "model": "item/toffy/crates/toffy_key_paladin"},
-		  { "predicate": {"custom_model_data": 1940}, "model": "item/toffy/crates_v2/toffy_key_creature"},
-		  { "predicate": {"custom_model_data": 1941}, "model": "item/toffy/crates_v2/toffy_key_raven"},
-		  { "predicate": {"custom_model_data": 1942}, "model": "item/toffy/crates_v2/toffy_key_sweet_tooth"}
-		  
-	  ]
-  }
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/feather"
+  },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1740}, "model": "item/toffy/crates/toffy_crate_purple"},
+		{ "predicate": {"custom_model_data": 1741}, "model": "item/toffy/crates/toffy_crate_black"},
+		{ "predicate": {"custom_model_data": 1742}, "model": "item/toffy/crates/toffy_crate_blue"},
+		{ "predicate": {"custom_model_data": 1743}, "model": "item/toffy/crates/toffy_crate_red"},
+		{ "predicate": {"custom_model_data": 1744}, "model": "item/toffy/crates/toffy_crate_green"},
+		{ "predicate": {"custom_model_data": 1745}, "model": "item/toffy/crates/toffy_key_purple"},
+		{ "predicate": {"custom_model_data": 1746}, "model": "item/toffy/crates/toffy_key_black"},
+		{ "predicate": {"custom_model_data": 1747}, "model": "item/toffy/crates/toffy_key_blue"},
+		{ "predicate": {"custom_model_data": 1748}, "model": "item/toffy/crates/toffy_key_red"},
+		{ "predicate": {"custom_model_data": 1749}, "model": "item/toffy/crates/toffy_key_green"},
+		{ "predicate": {"custom_model_data": 1750}, "model": "item/toffy/crates/toffy_crate_cinder"},
+		{ "predicate": {"custom_model_data": 1751}, "model": "item/toffy/crates/toffy_crate_viking"},
+		{ "predicate": {"custom_model_data": 1752}, "model": "item/toffy/crates/toffy_crate_paladin"},
+		{ "predicate": {"custom_model_data": 1753}, "model": "item/toffy/crates/toffy_key_cinder"},
+		{ "predicate": {"custom_model_data": 1754}, "model": "item/toffy/crates/toffy_key_viking"},
+		{ "predicate": {"custom_model_data": 1755}, "model": "item/toffy/crates/toffy_key_paladin"}
+		
+    ]
+}
