@@ -1322,6 +1322,33 @@
 		  "ascent": 8,
 		  "height": 9,
 		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ȁ"
+		  ],
+		  "file": "custom/error.png",
+		  "ascent": 9,
+		  "height": 11,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⓨ"
+		  ],
+		  "file": "custom/join.png",
+		  "ascent": 9,
+		  "height": 11,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⓧ"
+		  ],
+		  "file": "custom/leave.png",
+		  "ascent": 9,
+		  "height": 11,
+		  "type": "bitmap"
 		}
 
 	]
