@@ -1349,6 +1349,15 @@
 		  "ascent": 9,
 		  "height": 11,
 		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⓦ"
+		  ],
+		  "file": "custom/new.png",
+		  "ascent": 9,
+		  "height": 11,
+		  "type": "bitmap"
 		}
 
 	]
