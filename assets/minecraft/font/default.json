@@ -1283,8 +1283,8 @@
 			"⚠"
 		  ],
 		  "file": "custom/ruble.png",
-		  "ascent": 8,
-		  "height": 9,
+		  "ascent": 9,
+		  "height": 11,
 		  "type": "bitmap"
 		},
 		{
@@ -1292,8 +1292,8 @@
 			"⓪"
 		  ],
 		  "file": "custom/dollar.png",
-		  "ascent": 8,
-		  "height": 9,
+		  "ascent": 9,
+		  "height": 11,
 		  "type": "bitmap"
 		},
 		{
@@ -1301,8 +1301,8 @@
 			"①"
 		  ],
 		  "file": "custom/euro.png",
-		  "ascent": 8,
-		  "height": 9,
+		  "ascent": 9,
+		  "height": 11,
 		  "type": "bitmap"
 		},
 		{
@@ -1310,8 +1310,8 @@
 			"②"
 		  ],
 		  "file": "custom/discord.png",
-		  "ascent": 8,
-		  "height": 9,
+		  "ascent": 9,
+		  "height": 11,
 		  "type": "bitmap"
 		},
 		{
@@ -1319,8 +1319,8 @@
 			"③"
 		  ],
 		  "file": "custom/logo.png",
-		  "ascent": 8,
-		  "height": 9,
+		  "ascent": 9,
+		  "height": 11,
 		  "type": "bitmap"
 		},
 		{
