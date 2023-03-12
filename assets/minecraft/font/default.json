@@ -1358,6 +1358,501 @@
 		  "ascent": 9,
 		  "height": 11,
 		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅰ"
+		  ],
+		  "file": "custom/rank_tags/admin_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅱ"
+		  ],
+		  "file": "custom/rank_tags/booster_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅲ"
+		  ],
+		  "file": "custom/rank_tags/builder_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅳ"
+		  ],
+		  "file": "custom/rank_tags/coal_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅴ"
+		  ],
+		  "file": "custom/rank_tags/developer_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅵ"
+		  ],
+		  "file": "custom/rank_tags/diamond_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅶ"
+		  ],
+		  "file": "custom/rank_tags/discord_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅷ"
+		  ],
+		  "file": "custom/rank_tags/emerald_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅸ"
+		  ],
+		  "file": "custom/rank_tags/gold_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅹ"
+		  ],
+		  "file": "custom/rank_tags/iron_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅺ"
+		  ],
+		  "file": "custom/rank_tags/lazuli_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Ⅻ"
+		  ],
+		  "file": "custom/rank_tags/moderator_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⅰ"
+		  ],
+		  "file": "custom/rank_tags/player_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⅱ"
+		  ],
+		  "file": "custom/rank_tags/redstone_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⅲ"
+		  ],
+		  "file": "custom/rank_tags/supporter_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⅳ"
+		  ],
+		  "file": "custom/rank_tags/twitch_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⅴ"
+		  ],
+		  "file": "custom/rank_tags/vip_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⅵ"
+		  ],
+		  "file": "custom/rank_tags/vipplus_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"ⅶ"
+		  ],
+		  "file": "custom/rank_tags/youtube_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┠"
+		  ],
+		  "file": "custom/rank_icon_tags/admin_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┨"
+		  ],
+		  "file": "custom/rank_icon_tags/builder_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┯"
+		  ],
+		  "file": "custom/rank_icon_tags/coal_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┷"
+		  ],
+		  "file": "custom/rank_icon_tags/developer_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┏"
+		  ],
+		  "file": "custom/rank_icon_tags/diamond_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┓"
+		  ],
+		  "file": "custom/rank_icon_tags/discord_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"﹃"
+		  ],
+		  "file": "custom/rank_icon_tags/emerald_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"﹄"
+		  ],
+		  "file": "custom/rank_icon_tags/gold_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┗"
+		  ],
+		  "file": "custom/rank_icon_tags/iron_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┛"
+		  ],
+		  "file": "custom/rank_icon_tags/lazuli_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"┳"
+		  ],
+		  "file": "custom/rank_icon_tags/moderator_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"⊥"
+		  ],
+		  "file": "custom/rank_icon_tags/player_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"╝"
+		  ],
+		  "file": "custom/rank_icon_tags/redstone_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"╚"
+		  ],
+		  "file": "custom/rank_icon_tags/supporter_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"╔"
+		  ],
+		  "file": "custom/rank_icon_tags/twitch_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"╗"
+		  ],
+		  "file": "custom/rank_icon_tags/vip_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"╬"
+		  ],
+		  "file": "custom/rank_icon_tags/vipplus_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"═"
+		  ],
+		  "file": "custom/rank_icon_tags/youtube_icon_tag.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"⋖"
+		  ],
+		  "file": "custom/rank_icons/admin_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"⋗"
+		  ],
+		  "file": "custom/rank_icons/builder_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"▲"
+		  ],
+		  "file": "custom/rank_icons/coal_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"△"
+		  ],
+		  "file": "custom/rank_icons/developer_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"▼"
+		  ],
+		  "file": "custom/rank_icons/diamond_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"♢"
+		  ],
+		  "file": "custom/rank_icons/discord_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"♦"
+		  ],
+		  "file": "custom/rank_icons/emerald_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"▽"
+		  ],
+		  "file": "custom/rank_icons/gold_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"Δ"
+		  ],
+		  "file": "custom/rank_icons/iron_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"►"
+		  ],
+		  "file": "custom/rank_icons/lazuli_icon.png.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"◄"
+		  ],
+		  "file": "custom/rank_icons/moderator_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"⇨"
+		  ],
+		  "file": "custom/rank_icons/player_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"◈"
+		  ],
+		  "file": "custom/rank_icons/redstone_ico`.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"◆"
+		  ],
+		  "file": "custom/rank_icons/supporter_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"◇"
+		  ],
+		  "file": "custom/rank_icons/twitch_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"◊"
+		  ],
+		  "file": "custom/rank_icons/vip_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"⋘"
+		  ],
+		  "file": "custom/rank_icons/vipplus_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
+		},
+		{
+		  "chars": [
+			"⋙"
+		  ],
+		  "file": "custom/rank_icons/youtube_icon.png",
+		  "ascent": 7,
+		  "height": 7,
+		  "type": "bitmap"
 		}
 
 	]
